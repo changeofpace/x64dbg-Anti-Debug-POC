@@ -1,0 +1,10 @@
+void generated_function_0();
+void generated_function_1();
+void generated_function_2();
+void generated_function_3();
+void generated_function_4();
+void generated_function_5();
+void generated_function_6();
+void generated_function_7();
+void generated_function_8();
+void generated_function_9();

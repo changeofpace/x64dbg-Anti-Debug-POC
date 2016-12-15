@@ -14,7 +14,7 @@ protection.
 with PAGE_NOACCESS memory protection.  This is 000000013F421000 in the table below:
 <pre>
     000000013F420000  0000000000001000  x64dbg anti-debug poc.exe                                       IMG    -R---        ERWC-
-->  000000013F421000  0000000000009000   ".text"                          Executable code               IMG    ER---        ERWC-
+    000000013F421000  0000000000009000   ".text"                          Executable code               IMG    ER---        ERWC-
     000000013F42A000  0000000000001000   ".text"                          Executable code               IMG    -----        ERWC-
     000000013F42B000  0000000000007000   ".text"                          Executable code               IMG    ER---        ERWC-
     000000013F432000  0000000000002000   ".rdata"                         Read-only initialized data    IMG    -R---        ERWC-

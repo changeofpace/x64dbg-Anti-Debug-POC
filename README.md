@@ -28,3 +28,4 @@ with PAGE_NOACCESS memory protection.  This is 000000013F421000 in the table bel
 ## notes:
 
 1. Compiler optimization is disabled to force generated code to be included.
+2. This was designed for and tested on x64. 

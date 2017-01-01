@@ -11,7 +11,7 @@ protection.
 
 1. Start the .exe then attach x64dbg.
 2. In the "Memory Map" tab, find the .text memory region preceding the page
-with PAGE_NOACCESS memory protection.  This is 000000013F421000 in the table below (if you don't see it, right-click "Switch View"):
+with PAGE_NOACCESS memory protection.  This is 000000013F421000 in the table below (if you don't see it, right-click and select "Switch View"):
 <pre>
     000000013F420000  0000000000001000  x64dbg anti-debug poc.exe                                       IMG    -R---        ERWC-
     000000013F421000  0000000000009000   ".text"                          Executable code               IMG    ER---        ERWC-
